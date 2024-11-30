@@ -1,0 +1,5 @@
+{
+    "verilog.formatting.verilogFormat.path": "C:\\Users\\Kingsly\\verible-v0.0-3836-g86ee9bab-win64\\verible-verilog-format.exe",
+    "verilog.formatting.veribleVerilogFormatter.path": "C:\\Users\\Kingsly\\verible-v0.0-3836-g86ee9bab-win64\\verible-verilog-format.exe",
+    "verilog.linting.linter": "iverilog", // 选择iverilog或verilator
+}
